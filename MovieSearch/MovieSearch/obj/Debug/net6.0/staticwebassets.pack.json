@@ -1,0 +1,197 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\obj\\Debug\\net6.0\\build-gz\\fXMydTLl.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MovieSearch.styles.css",
+      "PackagePath": "staticwebassets\\MovieSearch.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\images\\12AngryMen1957.jpg",
+      "PackagePath": "staticwebassets\\images\\12AngryMen1957.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\images\\2001ASpaceOdyssey1968.jpg",
+      "PackagePath": "staticwebassets\\images\\2001ASpaceOdyssey1968.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\images\\Casablanca1942.jpg",
+      "PackagePath": "staticwebassets\\images\\Casablanca1942.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\images\\ChinaTown1974.jpg",
+      "PackagePath": "staticwebassets\\images\\ChinaTown1974.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\images\\CitizenKane1941.jpg",
+      "PackagePath": "staticwebassets\\images\\CitizenKane1941.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\images\\ET1982.jpg",
+      "PackagePath": "staticwebassets\\images\\ET1982.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\images\\ForrestGump1994.jpg",
+      "PackagePath": "staticwebassets\\images\\ForrestGump1994.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\images\\GoneWithTheWind1939.jpg",
+      "PackagePath": "staticwebassets\\images\\GoneWithTheWind1939.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\images\\LawrenceOfArabia1962.jpg",
+      "PackagePath": "staticwebassets\\images\\LawrenceOfArabia1962.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\images\\OnTheWaterfront1954.jpg",
+      "PackagePath": "staticwebassets\\images\\OnTheWaterfront1954.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\images\\OneFlewOverTheCuckoosNest1975.jpg",
+      "PackagePath": "staticwebassets\\images\\OneFlewOverTheCuckoosNest1975.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\images\\Psycho1960.jpg",
+      "PackagePath": "staticwebassets\\images\\Psycho1960.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\images\\RagingBull1980.jpg",
+      "PackagePath": "staticwebassets\\images\\RagingBull1980.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\images\\SchindlersList1993.jpg",
+      "PackagePath": "staticwebassets\\images\\SchindlersList1993.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\images\\StarWarsEpisodeIV1977.jpg",
+      "PackagePath": "staticwebassets\\images\\StarWarsEpisodeIV1977.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\images\\SunsetBlvd1950.jpg",
+      "PackagePath": "staticwebassets\\images\\SunsetBlvd1950.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\images\\TheBridgeOnTheRiverKwai1957.jpg",
+      "PackagePath": "staticwebassets\\images\\TheBridgeOnTheRiverKwai1957.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\images\\TheGodFather1972.jpg",
+      "PackagePath": "staticwebassets\\images\\TheGodFather1972.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\images\\TheGodFatherPart21974.jpg",
+      "PackagePath": "staticwebassets\\images\\TheGodFatherPart21974.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\images\\TheShawshankRedemption1994.jpg",
+      "PackagePath": "staticwebassets\\images\\TheShawshankRedemption1994.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\images\\TheSilenceOfTheLambs1991.jpg",
+      "PackagePath": "staticwebassets\\images\\TheSilenceOfTheLambs1991.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\images\\TheSoundOfMusic1965.jpg",
+      "PackagePath": "staticwebassets\\images\\TheSoundOfMusic1965.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\images\\TheWizardOfOz1939.jpg",
+      "PackagePath": "staticwebassets\\images\\TheWizardOfOz1939.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\images\\Vertigo1958.jpg",
+      "PackagePath": "staticwebassets\\images\\Vertigo1958.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\images\\WestSideStory1961.jpg",
+      "PackagePath": "staticwebassets\\images\\WestSideStory1961.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\MovieSearch\\MovieSearch\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MovieSearch.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MovieSearch.props",
+      "PackagePath": "build\\MovieSearch.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MovieSearch.props",
+      "PackagePath": "buildMultiTargeting\\MovieSearch.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MovieSearch.props",
+      "PackagePath": "buildTransitive\\MovieSearch.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

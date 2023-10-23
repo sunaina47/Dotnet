@@ -1,0 +1,49 @@
+﻿@page
+@model CodingFingerRazor.Pages.Raptors.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Employer</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Employer.EmployerNumber)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Employer.EmployerNumber)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Employer.EmployerName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Employer.EmployerName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Employer.EmployerDesignation)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Employer.EmployerDesignation)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Employer.EmployerSalary)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Employer.EmployerSalary)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Employer.EmployerAge)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Employer.EmployerAge)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Employer?.ID">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

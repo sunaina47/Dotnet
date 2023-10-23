@@ -1,0 +1,35 @@
+﻿@page "/TwoWayBindingComponent"
+
+<h3>TwoWayBindingComponent</h3>
+
+<p>Slider Value: <b>@SliderValue </b></p>
+
+<input type="range" step="1"
+    @bind-value="SliderValue"
+    @bind-value:event="oninput" />
+
+@code {
+    int SliderValue = 0;
+}
+
+<br />
+
+<h3>Record your favourite color</h3>
+<p>
+    <input @bind="Name" 
+        @bind:event="oninput"/>
+</p>
+<p>
+    <select @bind="favouriteColor">
+    <option>Red</option>
+    <option>Blue</option>
+    <option>Green</option>
+    <option>Yellow</option>
+    </select>
+</p>
+<hr />
+<p>Hi @Name ! Your favourite colour is @favouriteColor .</p>
+@code{
+    public string Name { get; set; }
+    public string favouriteColor { get; set; }
+}

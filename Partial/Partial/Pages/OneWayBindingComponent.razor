@@ -1,0 +1,24 @@
+﻿@page "/OneWayBindingComponent"
+
+<h3>@Title</h3>
+
+Welcome to my one way binding example. Here's a list of colours
+<ul>
+    @foreach(var colour in Colours)
+    {
+        <li>@colour</li>
+    }
+</ul>
+@if (DateTime.Now.DayOfWeek==DayOfWeek.Saturday || DateTime.Now.DayOfWeek == DayOfWeek.Sunday)
+{
+    <p class="@weekendFontStyle"> It's the Weekend! </p>
+}
+else
+    {
+        <p>Its @DateTime.Now.DayOfWeek.ToString()</p>
+    }
+@code {
+        string Title = "One Way";
+        List<string> Colours = new List<string> { "Red", "Blue", "Gree", "Yellow" };
+        string weekendFontStyle = "alert-warning";
+}

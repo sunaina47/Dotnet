@@ -1,0 +1,14 @@
+﻿@page "/ParameterExampleComponent"
+
+<h3>Parameter Example Component</h3>
+
+<h5 style="color:@Colr">@Title</h5>
+
+@code {
+    [Parameter]
+    public string Title { get; set; }
+
+    [Parameter]
+    public string Colr { get; set; }
+}
+

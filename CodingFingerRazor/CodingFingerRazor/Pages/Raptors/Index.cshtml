@@ -1,0 +1,66 @@
+﻿@page
+@model CodingFingerRazor.Pages.Raptors.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+
+<form>
+    <p>
+        Title: <input type="text" asp-for="SearchString"/>
+        <input type="submit" value="Filter" />
+    </p>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Employer[0].EmployerNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Employer[0].EmployerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Employer[0].EmployerDesignation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Employer[0].EmployerSalary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Employer[0].EmployerAge)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Employer) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmployerNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmployerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmployerDesignation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmployerSalary)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.EmployerAge)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.ID">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.ID">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.ID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
