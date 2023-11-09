@@ -1,0 +1,49 @@
+﻿body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #2C3A47;
+    color: #FFFFFF;
+}
+
+#formLogin {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+p {
+    margin: 10px 0;
+}
+
+#txtEmail,
+#txtPass {
+    height: 35px;
+    width: 252px;
+    margin-bottom: 10px;
+}
+
+#BtnLogin {
+    background-color: #13D0AB;
+    border: none;
+    color: white;
+    height: 35px;
+    width: 252px;
+    cursor: pointer;
+}
+
+a {
+    color: #13D0AB;
+    text-decoration: none;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
